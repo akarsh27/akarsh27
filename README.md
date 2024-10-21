@@ -23,15 +23,6 @@ Let’s collaborate and create meaningful, human-centered solutions that drive p
 - **Cloud**: AWS, Azure, GCP
 - **UI/UX**: Wireframing, Prototyping, User Research, Usability Testing, Mockups
 
-## 🚀 Featured Projects
-### [Pocket Notes](https://github.com/akarsh27/Pocket-Notes)
-A sleek and modern notes app with a focus on user experience and intuitive design.
-
-## 🎓 Education
-**BS in Computer Science**  
-*University of Wisconsin-Madison  
-- Relevant Coursework: Building User Interfaces, Algorithms, Human-Computer Interaction, Virtual Reality, System Design Using Object-Oriented Paradigm, Operating Systems, Data Science Programming.
-
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/sai-akarsh-ache/)
 - [Portfolio](https://akarsh27.github.io)
