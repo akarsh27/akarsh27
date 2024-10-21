@@ -1,21 +1,36 @@
-## Hi there 👋
-
 # Hi, I'm Sai Akarsh Ache! 👋
 
-I'm a passionate **Software Engineer** with experience in full-stack development, UI/UX design, API development, and database systems. I enjoy creating impactful solutions that make life easier and more enjoyable for users.
+I am passionate about solving complex problems where I can create impactful solutions that make a real difference in people's lives. I thrive on interacting with users, understanding their needs, and designing solutions that are both empathetic and innovative. With experience across the full product development lifecycle, I aim to build products that are not only usable but also equitable, enjoyable, and transformative.
 
-## 🌟 Skills
-- **Languages**: Python, JavaScript, SQL, HTML/CSS, C#
-- **Frameworks**: React, Node.js, Spring Boot
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Tools**: Docker, Git, Figma, PowerApps, SharePoint, AWS, Microsoft Azure
+I love working at the intersection of design, technology, and human interaction, especially in areas like **robotics** and **AI**. My goal is to create products that bridge the gap between humans and technology, enhancing how we engage with the world around us.
+
+In addition to my love for technology, I am also passionate about **photography and art**. You can check out some of my work on [VSCO](https://vsco.co/akarshache/gallery).
+
+Let’s collaborate and create meaningful, human-centered solutions that drive positive change!
+
+## 🌟 About Me
+- 🔭 I’m currently working as a **Software Engineer**.
+- 💻 I have a strong foundation in **full-stack development**, **UI/UX design**, **API design**, and **database systems**.
+- 🌱 I’m passionate about **robotics, AI**, and using **technology to solve human-centered challenges**.
+- 🎨 I enjoy creating intuitive and engaging designs that make technology accessible and enjoyable for users.
+- 📸 I love **photography and art**. [Check out my gallery](https://vsco.co/akarshache/gallery).
+
+## 🛠 Skills
+- **Languages**: Python, JavaScript, Java, SQL, C, C#, PHP, HTML/CSS
+- **Frameworks**: React, Node.js, TypeScript, Bootstrap
+- **Databases**: MySQL, PostgreSQL, SQL Server, Neo4j
+- **Tools**: Docker, Git, Figma, Adobe XD, SharePoint, PowerApps, Unity
+- **Cloud**: AWS, Azure, GCP
+- **UI/UX**: Wireframing, Prototyping, User Research, Usability Testing, Mockups
 
 ## 🚀 Featured Projects
 ### [Pocket Notes](https://github.com/akarsh27/Pocket-Notes)
-A sleek and modern notes app with a focus on user experience and intuitive design.
+A sleek and modern notes app with a focus on user experience and intuitive design. Built with React and Node.js.
 
-### [Classroom Chat Application](https://github.com/akarsh27/Classroom-Chat)
-A real-time chat application for classrooms built with React and Node.js.
+## 🎓 Education
+**BS in Computer Science**  
+*University of Wisconsin-Madison  
+- Relevant Coursework: Building User Interfaces, Algorithms, Human-Computer Interaction, Virtual Reality, System Design Using Object-Oriented Paradigm, Operating Systems, Data Science Programming.
 
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/sai-akarsh-ache/)
