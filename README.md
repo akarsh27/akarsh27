@@ -25,7 +25,7 @@ Let’s collaborate and create meaningful, human-centered solutions that drive p
 
 ## 🚀 Featured Projects
 ### [Pocket Notes](https://github.com/akarsh27/Pocket-Notes)
-A sleek and modern notes app with a focus on user experience and intuitive design. Built with React and Node.js.
+A sleek and modern notes app with a focus on user experience and intuitive design.
 
 ## 🎓 Education
 **BS in Computer Science**  
