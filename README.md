@@ -1,3 +1,5 @@
+![Banner](https://images.unsplash.com/photo-1444124818704-4d89a495bbae?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
 # Hi, I'm Sai Akarsh Ache! 👋
 
 I am passionate about solving complex problems where I can create impactful solutions that make a real difference in people's lives. I thrive on interacting with users, understanding their needs, and designing solutions that are both empathetic and innovative. With experience across the full product development lifecycle, I aim to build products that are not only usable but also equitable, enjoyable, and transformative.
