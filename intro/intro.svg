@@ -54,18 +54,18 @@
                     100% { opacity: 0; }
                 }
                 .typing {
-                    animation: typing 2s steps(20) forwards;
-                    animation-delay: 3s;
+                    animation: typing 2s steps(16) forwards; /* Adjusted for your full name */
+                    animation-delay: 1s;
                     animation-fill-mode: forwards;
                     overflow: hidden;
                     white-space: nowrap;
-                    width: 20ch;
+                    width: 16ch; /* Adjusted width */
                     display: inline-block;
                     vertical-align: bottom;
                 }
                 @keyframes typing {
                     from { width: 0ch; }
-                    to { width: 14ch; }
+                    to { width: 16ch; }
                 }
                 .typing::after {
                     content: '';
@@ -75,7 +75,7 @@
                     background-color: #16C60C;
                     vertical-align: bottom;
                     animation: blink 1s steps(1) infinite;
-                    animation-delay: 4.4s;
+                    animation-delay: 3.2s;
                 }
                 @keyframes blink {
                     0%, 50% { opacity: 1; }
@@ -84,7 +84,7 @@
                 .hidden-until-delay {
                     opacity: 0;
                     animation: fadeIn 1s forwards;
-                    animation-delay: 4.4s;
+                    animation-delay: 3.2s;
                 }
                 @keyframes fadeIn {
                     to { opacity: 1; }
@@ -110,12 +110,12 @@
                     <span class="cursor"></span><span class="typing">Sai Akarsh Ache</span>
                 </div>
                 <div class="bullet-list hidden-until-delay">
-                    <!-- <ul>
-                        <li>Point 1</li>
-                        <li>Point 2</li>
-                        <li>Point 3</li>
-                        <li>Point 4</li>
-                    </ul> -->
+                    <ul>
+                        <li>Full Stack Developer</li>
+                        <li>UI/UX Designer</li>
+                        <li>HCI | AI | Robotics</li>
+                        <li>Tech Explorer</li>
+                    </ul>
                 </div>
             </div>
         </div>
