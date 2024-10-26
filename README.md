@@ -1,7 +1,6 @@
 ![Banner](https://images.unsplash.com/photo-1444124818704-4d89a495bbae?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-
+![Banner](https://raw.githubusercontent.com/akarsh27/akarsh27/refs/heads/main/intro/intro.svg)
 # Hi, I'm Sai Akarsh Ache! 👋
-
 I am passionate about solving complex problems where I can create impactful solutions that make a real difference in people's lives. I thrive on interacting with users, understanding their needs, and designing solutions that are both empathetic and innovative. With experience across the full product development lifecycle, I aim to build products that are not only usable but also equitable, enjoyable, and transformative.
 
 I love working at the intersection of design, technology, and human interaction, especially in areas like **robotics** and **AI**. My goal is to create products that bridge the gap between humans and technology, enhancing how we engage with the world around us.
