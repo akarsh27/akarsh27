@@ -54,12 +54,12 @@
                     100% { opacity: 0; }
                 }
                 .typing {
-                    animation: typing 1.4s steps(14) forwards;
+                    animation: typing 2s steps(20) forwards;
                     animation-delay: 3s;
                     animation-fill-mode: forwards;
                     overflow: hidden;
                     white-space: nowrap;
-                    width: 0ch;
+                    width: 20ch;
                     display: inline-block;
                     vertical-align: bottom;
                 }
